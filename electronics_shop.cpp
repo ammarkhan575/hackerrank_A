@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true
+//https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true
 #include <assert.h>
 #include <limits.h>
 #include <math.h>
